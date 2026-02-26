@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+.venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore secrets
+.env
+config.py
